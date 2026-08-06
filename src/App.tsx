@@ -87,8 +87,8 @@ export default function App() {
     <div className="app">
       <header className="header">
         <div className="logo">
-          <Library size={26} />
-          Document Finder
+          <img src="/logo.svg" alt="GCare" className="logo-img" />
+          GCare File Finder
         </div>
 
         <div className="search-wrap">
