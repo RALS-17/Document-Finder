@@ -1,4 +1,4 @@
-import type { DocumentMeta, StoredDocument } from '../types/document';
+import type { DocumentMeta } from '../types/document';
 
 const DB_NAME = 'DocumentFinderDB';
 const DB_VERSION = 1;
